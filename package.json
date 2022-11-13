@@ -1,0 +1,15 @@
+{
+  "name": "sanis",
+  "version": "1.0.0",
+  "description": "Smart Authenticated National Insurance System",
+  "main": "SaNisBlockChain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sankar Ganesh.S",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha512": "^0.8.0",
+    "moment": "^2.29.4"
+  }
+}
